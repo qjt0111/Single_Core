@@ -1,0 +1,3 @@
+/home/qjt/spdk/dpdk/dpdk-19.05/examples/Single_Core/build/CMakeFiles/rebuild_cache.dir
+/home/qjt/spdk/dpdk/dpdk-19.05/examples/Single_Core/build/CMakeFiles/edit_cache.dir
+/home/qjt/spdk/dpdk/dpdk-19.05/examples/Single_Core/build/CMakeFiles/dpdk_hello.dir
